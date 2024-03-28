@@ -3,8 +3,8 @@ import React from "react";
 import { Html, Head, Main, NextScript } from "next/document";
 export default function Another() {
   return (
-    <div>
-      <div className="  w-full h-0 shadow-[0_2px_8px_0_rgba(63,69,81,0.16)] overflow-hidden will-change-transform mt-[1.6em] mb-[0.9em] pt-[56.2225%] pb-0 rounded-lg hover:blur-sm hover:brightness-50 hover:sepia hover:contrast-100 hover:hue-rotate-30 hover:invert-0 hover:opacity-5 hover:saturate-150 hover:text-orange-400 hover:text-xl disabled:w-3/12 disabled:text-[color:var(--some-color)] disabled:text-[1em] md:inset-x-1/4 md:inset-y-auto supports-[display:grid]:grid supports-[display:grid]:col-span-1;">
+    <div className="bg-[#E7DFD8]">
+      <div className="mb-[710px] bg-[#E7DFD8]  ">
         <iframe
           loading="lazy"
           className="absolute w-full h-full m-0 p-0 border-[none] left-0 top-0"
