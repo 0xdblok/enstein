@@ -31,7 +31,7 @@ export default function Hero() {
               className="w-full h-full"
               alt="Elbert Ensten"
               width="350"
-              height="350"
+              height="100"
             />
           </div>
         </div>
