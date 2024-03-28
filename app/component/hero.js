@@ -5,7 +5,7 @@ export default function Hero() {
   return (
     <div className="pt-6 lg:px-54 px-2 flex justify-center ">
       <section className="p-6">
-        <div className="container font-sans mx-auto flex flex-col justify-center lg:flex-row lg:justify-between  p-14 border-2 border-black ">
+        <div className=" w-[450px] xl:w-[1050px] lg:w-[800px] md:w-[550px]  font-sans  flex flex-col justify-center lg:flex-row lg:justify-between  p-14 border-2 border-black ">
           <div className="lg:w-1/2 w-full text-center lg:text-left">
             <h1 className="font-bold  text-3xl"> ELBERT ENSTEN</h1>
             <p className="pt-6 ">Hello!</p>
@@ -22,7 +22,7 @@ export default function Hero() {
             </div>
             <p className="align-bottom font-bold pt-28 text-lg ">
               {" "}
-              CONTRACT ADDRESS : 0x...COMING SOON...
+              CONTRACT ADDRESS : 0x...
             </p>
           </div>{" "}
           <div className="flex  pt-4 md:pt-0 justify-center  ">

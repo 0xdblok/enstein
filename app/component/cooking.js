@@ -3,9 +3,9 @@ import Image from "next/image";
 import cooking from "./cooking.png";
 export default function Cooking() {
   return (
-    <div className="pt-6 lg:px-54 px-2 flex justify-center ">
+    <div className="pt-6  px-2 flex justify-center ">
       <section className="p-6">
-        <div className="container font-sans mx-auto flex flex-col justify-center lg:flex-row lg:justify-between  p-14 border-2 border-black ">
+        <div className="font-sans w-[450px] xl:w-[1050px] lg:w-[800px] md:w-[550px]  flex flex-col justify-center lg:flex-row lg:justify-between  p-14 border-2 border-black ">
           <div className="lg:w-1/2 w-full text-center lg:text-left">
             <h1 className="font-bold  text-3xl"> We are still cooking!</h1>
 
