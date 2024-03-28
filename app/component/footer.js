@@ -14,14 +14,14 @@ export default function Footer() {
             className=""
             alt="hero"
             src={telegram}
-            width="34"
-            height="34"
+            width="38"
+            height="38"
           />
         </a>
         <a
           href="https://x.com/crazyelbert/"
           className="flex items-center font-mono font-medium">
-          <Image className="" alt="hero" src={x} width="34" height="34" />
+          <Image className="" alt="hero" src={x} width="32" height="32" />
         </a>{" "}
       </div>
     </div>
