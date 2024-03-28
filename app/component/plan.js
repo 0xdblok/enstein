@@ -16,7 +16,7 @@ export default function Plan() {
               </p>{" "}
               <p className="">
                 I have only 37 IQ but actually I really need to duplicate the
-                sun<span>for aliens to get burnt.</span>
+                sun for aliens to get burnt.
               </p>
             </div>
           </div>{" "}

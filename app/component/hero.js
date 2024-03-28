@@ -15,7 +15,7 @@ export default function Hero() {
                 I’m Elbert Ensten and I don’t have anything to say cuz I don’t
                 give a fuck.
               </h1>
-              <p className="pt-6">
+              <p className="">
                 By the way I’m living on planet Zekesenk, far away from universe
                 7.
               </p>
@@ -31,7 +31,7 @@ export default function Hero() {
               className="w-full h-full"
               alt="Elbert Ensten"
               width="350"
-              height="100"
+              height="350"
             />
           </div>
         </div>
