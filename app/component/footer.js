@@ -8,26 +8,20 @@ export default function Footer() {
       <div className="flex gap-2">
         {" "}
         <a
-          href="https://t.me/boogerbase"
+          href="https://t.me/elbertensten"
           className="flex items-center font-mono font-medium">
           <Image
-            className="rounded"
+            className=""
             alt="hero"
             src={telegram}
-            width="28"
-            height="28"
-          />
-        </a>
-        <a
-          href="https://t.me/boogerbase"
-          className="flex items-center font-mono font-medium">
-          <Image
-            className="rounded"
-            alt="hero"
-            src={x}
             width="34"
             height="34"
           />
+        </a>
+        <a
+          href="https://x.com/crazyelbert/"
+          className="flex items-center font-mono font-medium">
+          <Image className="" alt="hero" src={x} width="34" height="34" />
         </a>{" "}
       </div>
     </div>
