@@ -20,7 +20,7 @@ export default function Plan() {
               </p>
             </div>
           </div>{" "}
-          <div className="flex  pt-4 md:pt-0 justify-center  ">
+          <div className="flex w-80  pt-4 md:pt-0 justify-center  ">
             <Image
               src={plan}
               className="w-full h-full"

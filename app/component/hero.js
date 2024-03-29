@@ -25,7 +25,7 @@ export default function Hero() {
               CONTRACT ADDRESS : 0x...
             </p>
           </div>{" "}
-          <div className="flex  pt-4 md:pt-0 justify-center  ">
+          <div className="flex w-80 pt-4 md:pt-0 justify-center  ">
             <Image
               src={ensten}
               className="w-full h-full"
