@@ -22,7 +22,7 @@ export default function Hero() {
             </div>
             <p className="align-bottom font-bold pt-28 text-lg ">
               {" "}
-              CONTRACT ADDRESS : 0x...
+              CONTRACT ADDRESS : 0x83C8ec69812460b6d139f6629bdb4c42417E4AaC
             </p>
           </div>{" "}
           <div className="flex w-80 pt-4 md:pt-0 justify-center  ">
