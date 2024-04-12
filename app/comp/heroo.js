@@ -16,7 +16,7 @@ export default function Heroo() {
         </div>
 
         <div className="flex w-full justify-center items-center">
-          <p className="lg:text-4xl font-extrabold text-2xl">ELBERT ENSTEN</p>
+          <p className="lg:text-4xl font-extrabold font-serif text-2xl">ELBERT ENSTEN</p>
         </div>
       </div>
     </div>
