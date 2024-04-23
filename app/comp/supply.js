@@ -27,7 +27,7 @@ export default function Supply() {
             <p>15% COMMUNITY</p>
             <p>5% DEV</p>
           </div>
-        </div>
+        </div>{" "}
       </div>
     </div>
   );

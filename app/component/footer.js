@@ -11,7 +11,7 @@ export default function Footer() {
           href="https://t.me/elbertensten"
           className="flex items-center font-mono font-medium">
           <Image
-            className=""
+            className=" md:w-[39px] md:h-[39px]"
             alt="hero"
             src={telegram}
             width="38"
@@ -20,8 +20,14 @@ export default function Footer() {
         </a>
         <a
           href="https://x.com/crazyelbert/"
-          className="flex items-center font-mono font-medium">
-          <Image className="" alt="hero" src={x} width="32" height="32" />
+          className="flex items-center font-mono font-medium ">
+          <Image
+            className=" md:w-[30px] md:h-[30px]"
+            alt="hero"
+            src={x}
+            width="35"
+            height="35"
+          />
         </a>{" "}
       </div>
     </div>

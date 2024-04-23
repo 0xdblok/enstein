@@ -10,14 +10,18 @@ import Formula from "./comp/formula";
 import Heroo from "./comp/heroo";
 import Solution from "./comp/solution";
 import Supply from "./comp/supply";
+import Partner from "./comp/partner";
+import Buy from "./comp/buy";
 
 export default function Home() {
   return (
     <main className="bg-[#F2F0F1] ">
       <Heroo />
       <Formula />
+      <Partner />
       <Solution />
       <Supply />
+      <Buy />
 
       <Footer />
     </main>
