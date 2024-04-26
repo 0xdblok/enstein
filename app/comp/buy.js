@@ -67,7 +67,7 @@ export default function Buy() {
               Go to SyncSwap
             </h2>
             <p className=" font-sans font-normal ">
-              Google syncswap.xyz website. Connect your wallet. Paste the $XONG
+              Google syncswap.xyz website. Connect your wallet. Paste the $ELBERT
               token address into SyncSwap and then confirm the swap. Then sign.
             </p>
           </div>
