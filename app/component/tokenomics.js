@@ -27,7 +27,7 @@ export default function Tokenomics() {
             height="450"
           />
         </div>
-        <div className="lg:w-1/2 flex items-center border-4 border-black rounded-lg mt-6 lg:mt-0">
+        <div className="lg:w-1/2 flex bg-[#EDA1C7] items-center border-4 border-black rounded-lg mt-6 lg:mt-0">
           {" "}
           <div className="w-full bg-[#EDA1C7] ">
             <h1 className="bunge text-center  text-xl xl:text-2xl">
