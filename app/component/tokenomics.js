@@ -5,7 +5,7 @@ import Image from "next/image";
 export default function Tokenomics() {
   return (
     <div className="pt-36 ">
-      <div className="mx-16 lg:mx-48 xl:mx-66  border-4 border-black bg-[#EDA1C7]  rounded-lg ">
+      <div className="mx-16 lg:mx-48 xl:mx-66  border-4 border-black  rounded-lg ">
         <h1 className="bunge text-center text-nowrap text-4xl xl:text-5xl">
           Tokenomics
         </h1>
@@ -29,7 +29,7 @@ export default function Tokenomics() {
         </div>
         <div className="lg:w-1/2 flex items-center border-4 border-black rounded-lg mt-6 lg:mt-0">
           {" "}
-          <div className="w-full">
+          <div className="w-full bg-[#EDA1C7] ">
             <h1 className="bunge text-center  text-xl xl:text-2xl">
               TOTAL SUPPLY
             </h1>
