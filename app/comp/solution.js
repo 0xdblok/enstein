@@ -18,7 +18,7 @@ export default function Solution() {
         <div className="text-center font-serif  font-bold lg:text-2xl md:text-xl text-sm ">
           <h2>
             I, Elbert Ensten, a 12-year-old with a 37 IQ, reside on the planet
-            Zekesenk. ONE OF THE CHOOSEN IS ME.
+            base. ONE OF THE CHOOSEN IS ME.
           </h2>
           <h2>
             Since I surpassed all expectations and the standard of having a high
