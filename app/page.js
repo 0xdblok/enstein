@@ -17,7 +17,7 @@ export default function Home() {
   return (
     <main className="bg-[#F2F0F1] ">
       <Heroo />
-      <Formula />
+
       <Partner />
       <Solution />
       <Supply />
