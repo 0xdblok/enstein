@@ -44,7 +44,7 @@ export default function Tokenomics() {
             <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">DEV</h1>
             <p className="text-center bunge">5% </p>
             <h1 className="bunge text-center pt-8 text-xl xl:text-2xl">CA</h1>
-            <p className="text-center bunge">
+            <p className="text-center bunge text-wrap">
               0xa99909984d072B34035510F76e2eFb593Bd0f933
             </p>
           </div>
