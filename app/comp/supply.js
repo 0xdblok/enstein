@@ -16,7 +16,7 @@ export default function Supply() {
         </div>
         <div>
           <h1 className="pt-28 font-bold md:font-semibold  text-nowrap text-center text-[9px]  md:text-[19px] font-serif   ">
-            CA : TBA
+            CA : 0xa99909984d072B34035510F76e2eFb593Bd0f933
           </h1>
 
           <div className="font-serif">
