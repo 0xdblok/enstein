@@ -48,8 +48,7 @@ export default function Buy() {
             </h2>
             <p className=" font-sans font-normal ">
               Have ETH in your wallet to switch to $ELBERT. If you don’t have
-              any ETH, you can buy ETH from an exchange and send it to ZkSync or
-              cross chain swap here zkswap.finance
+              any ETH, you can buy ETH from an exchange and send it to BASE
             </p>
           </div>
           <div className="p-6 lg:w-1/4 ">
@@ -64,11 +63,12 @@ export default function Buy() {
               />
             </div>
             <h2 className="text-lg pt-2 font-semibold font-sans md:text-xl lg:pt-6 ">
-              Go to SyncSwap
+              Go to Uniswap
             </h2>
             <p className=" font-sans font-normal ">
-              Google syncswap.xyz website. Connect your wallet. Paste the $ELBERT
-              token address into SyncSwap and then confirm the swap. Then sign.
+              Google app.uniswap.org website. Connect your wallet. Paste the
+              $ELBERT token address into Uniswap and then confirm the swap. Then
+              sign.
             </p>
           </div>
           <div className="p-6 lg:w-1/4">
@@ -85,7 +85,7 @@ export default function Buy() {
               Ride the wave
             </h2>
             <p className=" font-sans font-normal ">
-              ZkSync Season is at its early stages. Just sit back and relax. The
+              Base Season is at its early stages. Just sit back and relax. The
               worst thing most people do, is they sell their bags early
             </p>
           </div>
